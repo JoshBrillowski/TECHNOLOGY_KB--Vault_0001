@@ -1,8 +1,8 @@
 ---
 id: uoly365rx9nwmtawxxrqppm
-title: "4. Application Workflows"
+title: "9. Application Workflows"
 desc: ''
-updated: 1669190214610
+updated: 1669255283784
 created: 1669186225045
 ---
 <span class="BreadCrumbTrail Smallest">**TECHNOLOGIES KB:** [[Visual Design|GVI.MV-KB.MG-Technologies.VGG-Visual_Design]] > [[Design Tools & Applications|GVI.MV-KB.MG-Technologies.VGG-Visual_Design.Design_Tools_&_Applications]] > [[Design Applications|GVI.MV-KB.MG-Technologies.VGG-Visual_Design.Design_Tools_&_Applications.Applications]] > [[Figma|FIGMA]]</span>
